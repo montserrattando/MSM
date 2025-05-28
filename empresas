@@ -1,0 +1,143 @@
+<div style="width: 1440px; height: 2936px; position: relative; background: white; overflow: hidden">
+  <div style="width: 1440px; padding-left: 32px; padding-right: 32px; padding-top: 16px; padding-bottom: 16px; left: 0px; top: 0px; position: absolute; background: #0F4756; justify-content: space-between; align-items: center; display: inline-flex">
+    <div style="width: 233px; height: 42px; justify-content: space-between; align-items: center; display: flex">
+      <img style="width: 233px; height: 38px" src="https://placehold.co/233x38" />
+    </div>
+    <div style="justify-content: flex-start; align-items: center; gap: 45px; display: flex">
+      <div style="width: 551.50px; justify-content: flex-start; align-items: flex-start; gap: 32px; display: flex">
+        <div style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">Empresas</div>
+          <div style="width: 9px; height: 4px; outline: 1px white solid; outline-offset: -0.50px"></div>
+        </div>
+        <div style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">Preguntas frecuentes</div>
+          <div style="width: 9px; height: 4px; outline: 1px white solid; outline-offset: -0.50px"></div>
+        </div>
+        <div style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">Psicologos</div>
+          <div style="width: 9px; height: 4px; outline: 1px white solid; outline-offset: -0.50px"></div>
+        </div>
+        <div style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">Blog</div>
+          <div style="width: 9px; height: 4px; outline: 1px white solid; outline-offset: -0.50px"></div>
+        </div>
+      </div>
+      <div style="height: 60px; justify-content: flex-end; align-items: flex-start; gap: 24px; display: flex">
+        <div style="height: 60px; padding-left: 40px; padding-right: 40px; padding-top: 16px; padding-bottom: 16px; background: #C17C45; border-radius: 8px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">Login</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1440px; padding-top: 84px; padding-bottom: 140px; padding-left: 32px; padding-right: 32px; left: 0px; top: 92px; position: absolute; background: #BAB58D; flex-direction: column; justify-content: center; align-items: flex-start; gap: 100px; display: inline-flex">
+    <div style="align-self: stretch; justify-content: flex-start; align-items: center; display: inline-flex">
+      <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 28px; display: inline-flex">
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex">
+          <div style="align-self: stretch; color: white; font-size: 78px; font-family: PP Neue Corp; font-weight: 500; line-height: 74.10px; word-wrap: break-word">Comienza el cambio<br/>en tu equipo</div>
+          <div style="width: 601px; color: white; font-size: 18px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">Contratar nuestros servicios es simple y totalmente personalizado. Comenzamos con una llamada inicial gratuita para conocer las necesidades de tu empresa. A partir de ahí, diseñamos una propuesta a la medida que puede incluir terapia para colaboradores, talleres, capacitaciones o diagnóstico emocional organizacional. Una vez aprobada, coordinamos fechas, firmamos el acuerdo y ejecutamos el plan con acompañamiento constante. Además, te entregamos reportes y evaluaciones para medir el impacto real en tu equipo. Escríbenos y diseñemos juntos una estrategia de bienestar emocional que transforme tu organización desde adentro.</div>
+        </div>
+        <div style="padding-left: 40px; padding-right: 40px; padding-top: 20px; padding-bottom: 20px; background: #0F4756; border-radius: 8px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+          <div style="color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Quienes Somos</div>
+          <div style="justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
+            <div style="width: 7px; height: 14px; outline: 1px white solid; outline-offset: -0.50px"></div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 719px; height: 448px; position: relative; background: #F8F9FB; overflow: hidden">
+        <img style="width: 719px; height: 448px; left: 0px; top: 0.50px; position: absolute" src="https://placehold.co/719x448" />
+      </div>
+    </div>
+  </div>
+  <div style="width: 1440px; height: 551px; padding: 32px; left: 0px; top: 1945px; position: absolute; background: #0F4756; flex-direction: column; justify-content: center; align-items: center; gap: 200px; display: inline-flex">
+    <div style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 40px; display: flex">
+      <div style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 24px; display: flex">
+        <div style="width: 608px; text-align: center; color: white; font-size: 72px; font-family: PP Neue Corp; font-weight: 500; word-wrap: break-word">Únete a Mi Salud Mental</div>
+        <div style="width: 550px; text-align: center; color: white; font-size: 24px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">Servicios Administrados de Psicología en Línea</div>
+      </div>
+      <div style="padding-left: 40px; padding-right: 40px; padding-top: 20px; padding-bottom: 20px; background: #C17C45; border-radius: 10px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Montserrat; font-weight: 500; line-height: 23px; word-wrap: break-word">Contáctanos</div>
+        <div style="justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
+          <div style="width: 7px; height: 14px; outline: 1px white solid; outline-offset: -0.50px"></div>
+        </div>
+      </div>
+      <div style="width: 367px; text-align: center; color: white; font-size: 24px; font-family: Inter; font-weight: 400; line-height: 32px; word-wrap: break-word">Enfoque a empresas       y totalmente remoto.</div>
+    </div>
+  </div>
+  <div style="width: 1440px; height: 1074px; padding-left: 32px; padding-right: 32px; padding-top: 140px; padding-bottom: 140px; left: 0px; top: 874px; position: absolute; background: #C17C45; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+    <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: center; gap: 48px; display: flex">
+      <div style="width: 1064px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 24px; display: flex">
+        <div style="width: 312.23px; height: 32.78px; background: #0F4756"></div>
+        <div style="width: 8.40px; height: 0.87px; background: #0F4756"></div>
+        <div style="width: 3.95px; height: 0.41px; background: #0F4756"></div>
+        <div style="width: 3.14px; height: 0.35px; background: #0F4756"></div>
+        <div style="width: 3.75px; height: 0.39px; background: #0F4756"></div>
+        <div style="width: 2.11px; height: 0.41px; background: #0F4756"></div>
+        <div style="width: 2.65px; height: 0.33px; background: #0F4756"></div>
+        <div style="width: 1.82px; height: 0.36px; background: #0F4756"></div>
+        <div style="width: 2.04px; height: 0.27px; background: #0F4756"></div>
+        <div style="width: 1.74px; height: 0.24px; background: #0F4756"></div>
+        <div style="width: 1.29px; height: 0.33px; background: #0F4756"></div>
+        <div style="width: 1.30px; height: 0.21px; background: #0F4756"></div>
+        <div style="width: 1.28px; height: 0.21px; background: #0F4756"></div>
+        <div style="width: 1.30px; height: 0.21px; background: #0F4756"></div>
+        <div style="width: 1.30px; height: 0.21px; background: #0F4756"></div>
+        <div style="width: 1.30px; height: 0.21px; background: #0F4756"></div>
+        <div style="width: 1.18px; height: 0.22px; background: #0F4756"></div>
+        <div style="width: 0.86px; height: 0.18px; background: #0F4756"></div>
+        <div style="width: 0.88px; height: 0.19px; background: #0F4756"></div>
+        <div style="width: 0.74px; height: 0.19px; background: #0F4756"></div>
+        <div style="width: 0.85px; height: 0.20px; background: #0F4756"></div>
+        <div style="width: 0.76px; height: 0.20px; background: #0F4756"></div>
+        <div style="width: 0.33px; height: 0.17px; background: #0F4756"></div>
+        <div style="width: 0.44px; height: 0.15px; background: #0F4756"></div>
+        <div style="width: 0.43px; height: 0.13px; background: #0F4756"></div>
+        <div style="width: 0.43px; height: 0.13px; background: #0F4756"></div>
+        <div style="width: 0.43px; height: 0.13px; background: #0F4756"></div>
+        <div style="width: 0.33px; height: 0.17px; background: #0F4756"></div>
+        <div style="align-self: stretch; color: white; font-size: 96px; font-family: PP Neue Corp; font-weight: 500; line-height: 90px; word-wrap: break-word">Podrán acceder a los servicios en 3 sencillos pasos</div>
+        <div style="align-self: stretch; text-align: center; color: white; font-size: 28px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">¿Cómo funciona con tus colaboradores?</div>
+      </div>
+      <div style="width: 784px; height: 233px; position: relative; overflow: hidden">
+        <div style="width: 153.27px; height: 230.44px; left: 602px; top: 1.28px; position: absolute; background: white; outline: 5px white solid; outline-offset: -2.50px"></div>
+        <div style="width: 4.97px; height: 54.30px; left: 683px; top: 137.38px; position: absolute; background: white; outline: 5px white solid; outline-offset: -2.50px"></div>
+        <div style="width: 4.96px; height: 44.33px; left: 703.07px; top: 147.75px; position: absolute; background: white; outline: 5px white solid; outline-offset: -2.50px"></div>
+        <div style="width: 4.99px; height: 34.50px; left: 722.84px; top: 157.58px; position: absolute; background: white; outline: 5px white solid; outline-offset: -2.50px"></div>
+        <div style="width: 94.39px; height: 123.76px; left: 399.96px; top: 104.91px; position: absolute; background: white"></div>
+        <div style="width: 94.42px; height: 123.76px; left: 290px; top: 104.91px; position: absolute; background: white"></div>
+        <div style="width: 85.31px; height: 68.45px; left: 409.02px; top: 24.32px; position: absolute; background: white"></div>
+        <div style="width: 85.31px; height: 68.16px; left: 290.15px; top: 24.33px; position: absolute; background: white"></div>
+        <div style="width: 50.93px; height: 34.14px; left: 426.15px; top: 41.31px; position: absolute; background: white"></div>
+        <div style="width: 43.59px; height: 42.88px; left: 310.47px; top: 37.08px; position: absolute; background: white"></div>
+        <div style="width: 31.47px; height: 31.49px; left: 42.56px; top: 63.23px; position: absolute; background: white"></div>
+        <div style="width: 77.52px; height: 51.89px; left: 60.30px; top: 172.37px; position: absolute; background: white"></div>
+        <div style="width: 9.30px; height: 9.30px; left: 94.41px; top: 155.55px; position: absolute; background: white"></div>
+        <div style="width: 120.87px; height: 9.30px; left: 38.62px; top: 214.96px; position: absolute; background: white"></div>
+        <div style="width: 38.98px; height: 9.30px; left: 0px; top: 141.96px; position: absolute; background: white"></div>
+        <div style="width: 146.62px; height: 9.30px; left: 55.79px; top: 141.96px; position: absolute; background: white"></div>
+        <div style="width: 165.93px; height: 106.28px; left: 17.88px; top: 45.34px; position: absolute; background: white"></div>
+        <div style="width: 201.69px; height: 154.58px; left: 0.36px; top: 26.74px; position: absolute; background: white"></div>
+        <div style="width: 45.06px; height: 36.14px; left: 35.76px; top: 85.42px; position: absolute; background: white"></div>
+        <div style="width: 67.23px; height: 9.30px; left: 94.05px; top: 80.77px; position: absolute; background: white"></div>
+        <div style="width: 67.23px; height: 9.30px; left: 94.05px; top: 94.37px; position: absolute; background: white"></div>
+        <div style="width: 8.94px; height: 8.95px; left: 94.05px; top: 112.61px; position: absolute; background: white"></div>
+        <div style="width: 8.94px; height: 8.95px; left: 107.64px; top: 112.61px; position: absolute; background: white"></div>
+        <div style="width: 8.94px; height: 8.95px; left: 120.87px; top: 112.61px; position: absolute; background: white"></div>
+        <div style="width: 8.94px; height: 8.95px; left: 134.46px; top: 112.61px; position: absolute; background: white"></div>
+        <div style="width: 8.94px; height: 8.95px; left: 147.69px; top: 112.61px; position: absolute; background: white"></div>
+      </div>
+      <div style="justify-content: flex-start; align-items: flex-start; gap: 48px; display: inline-flex">
+        <div style="width: 236px; text-align: center"><span style="color: white; font-size: 24px; font-family: Inter; font-weight: 900; line-height: 30px; word-wrap: break-word">Registro de Usuario<br/></span><span style="color: white; font-size: 18px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">Empecemos creando tu acceso a la
+        plataforma.</span></div>
+        <div style="width: 236px; text-align: center"><span style="color: white; font-size: 24px; font-family: Inter; font-weight: 900; line-height: 30px; word-wrap: break-word">Evaluación Inicial<br/></span><span style="color: white; font-size: 18px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">Para conocerte mejor y asignarte al
+        terapeuta adecuado, te pedimos responder breves cuestionarios.</span></div>
+        <div style="width: 236px; text-align: center"><span style="color: white; font-size: 24px; font-family: Inter; font-weight: 900; line-height: 30px; word-wrap: break-word">Tu Preferencia <br/>de Terapeuta<br/></span><span style="color: white; font-size: 18px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">Elige a tu terapeuta y agenda tu sesión</span></div>
+      </div>
+      <div style="padding-left: 40px; padding-right: 40px; padding-top: 20px; padding-bottom: 20px; background: #0F4756; border-radius: 8px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Contacto</div>
+        <div style="justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
+          <div style="width: 7px; height: 14px; outline: 1px white solid; outline-offset: -0.50px"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
