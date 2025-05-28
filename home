@@ -1,0 +1,379 @@
+<div style="width: 1440px; height: 5642px; position: relative; background: white; overflow: hidden">
+  <div style="width: 1440px; padding-left: 32px; padding-right: 32px; padding-top: 100px; padding-bottom: 100px; left: 0px; top: 92px; position: absolute; background: #0F4756; justify-content: flex-start; align-items: center; display: inline-flex">
+    <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 13px; display: inline-flex">
+      <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex">
+        <div style="width: 663px; color: white; font-size: 78px; font-family: PP Neue Corp; font-weight: 500; line-height: 62.40px; word-wrap: break-word">Bienestar emocional para empresas</div>
+        <div style="width: 630px; color: white; font-size: 18px; font-family: Aileron; font-weight: 400; line-height: 30px; word-wrap: break-word">En Mi Salud Mental brindamos servicios de atención psicológica en línea, diseñados especialmente para empresas que buscan mejorar el bienestar y la productividad de su equipo.</div>
+      </div>
+      <div style="padding: 20px; background: #C17C45; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">Nuestros Servicios</div>
+        <div style="width: 5px; height: 10px; outline: 1px white solid; outline-offset: -0.50px"></div>
+      </div>
+    </div>
+    <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 3.33px; display: inline-flex">
+      <img style="width: 544px; height: 725.33px; transform: rotate(90deg); transform-origin: top left" src="https://placehold.co/544x725" />
+    </div>
+  </div>
+  <div style="width: 1440px; padding-left: 32px; padding-right: 32px; padding-top: 140px; padding-bottom: 140px; left: 0px; top: 1420px; position: absolute; background: #BAB58D; flex-direction: column; justify-content: center; align-items: center; gap: 60px; display: inline-flex">
+    <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: center; gap: 24px; display: flex">
+      <div style="align-self: stretch; text-align: center; color: white; font-size: 128px; font-family: PP Neue Corp; font-weight: 500; line-height: 76.80px; word-wrap: break-word">Psicólogos en línea</div>
+    </div>
+    <div style="align-self: stretch; justify-content: center; align-items: center; gap: 32px; display: inline-flex">
+      <div style="flex: 1 1 0; height: 761px; padding-top: 65px; padding-bottom: 80px; padding-left: 44px; padding-right: 44px; background: #0F4756; box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.08); border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 36px; display: inline-flex">
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 25px; display: flex">
+          <div style="align-self: stretch; color: #B9B48C; font-size: 48px; font-family: PP Neue Corp; font-weight: 500; line-height: 36px; word-wrap: break-word">Empresas</div>
+          <div style="align-self: stretch; color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Priorizar el bienestar mental de tu equipo no solo mejora su calidad de vida, sino que también impulsa su productividad y<br/>compromiso con la empresa.Transforma tu empresa en un lugar donde el bienestar de los empleados es prioridad</div>
+        </div>
+        <div style="align-self: stretch; padding-top: 97px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 28px; display: flex">
+          <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 19px; display: inline-flex">
+            <div style="width: 18.01px; height: 18.01px; outline: 2px #B9B48C solid; outline-offset: -1px"></div>
+            <div style="width: 11.70px; height: 9.01px; outline: 2px #B9B48C solid; outline-offset: -1px"></div>
+            <div style="flex: 1 1 0; color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Reduce el estrés laboral y el burnout</div>
+          </div>
+          <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 19px; display: inline-flex">
+            <div style="width: 18.01px; height: 18.01px; outline: 2px #BAB58D solid; outline-offset: -1px"></div>
+            <div style="width: 11.70px; height: 9.01px; outline: 2px #BAB58D solid; outline-offset: -1px"></div>
+            <div style="flex: 1 1 0; color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Disminuye la rotación y el ausentismo</div>
+          </div>
+          <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 19px; display: inline-flex">
+            <div style="width: 18.01px; height: 18.01px; outline: 2px #BAB58D solid; outline-offset: -1px"></div>
+            <div style="width: 11.70px; height: 9.01px; outline: 2px #B8B38B solid; outline-offset: -1px"></div>
+            <div style="flex: 1 1 0; color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Mejora el clima organizacional <br/>y la comunicación interna</div>
+          </div>
+          <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 19px; display: inline-flex">
+            <div style="width: 18.01px; height: 18.01px; outline: 2px #BAB58D solid; outline-offset: -1px"></div>
+            <div style="width: 11.70px; height: 9.01px; outline: 2px #BAB58D solid; outline-offset: -1px"></div>
+            <div style="flex: 1 1 0; color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Aumenta el compromiso y sentido <br/>de pertenencia</div>
+          </div>
+        </div>
+        <div style="padding-left: 40px; padding-right: 40px; padding-top: 16px; padding-bottom: 16px; background: #C17C45; border-radius: 8px; justify-content: center; align-items: center; display: inline-flex">
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Ver más</div>
+        </div>
+      </div>
+      <div style="flex: 1 1 0; height: 761px; padding-top: 65px; padding-bottom: 80px; padding-left: 44px; padding-right: 44px; background: #0F4756; box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.08); border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 36px; display: inline-flex">
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 25px; display: flex">
+          <div style="align-self: stretch; color: #B9B48C; font-size: 48px; font-family: PP Neue Corp; font-weight: 500; line-height: 36px; word-wrap: break-word">Terapia Individual</div>
+          <div style="align-self: stretch; color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Te invitamos a embarcarte en un viaje de autodescubrimiento. Tú eres el protagonista, y nosotros tus guías. <br/><br/>Juntos, exploraremos tus emociones, conductas y experiencias para que puedas comprenderte a ti mismo en profundidad.</div>
+        </div>
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 28px; display: flex">
+          <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 19px; display: inline-flex">
+            <div style="width: 18.01px; height: 18.01px; outline: 2px #B9B48C solid; outline-offset: -1px"></div>
+            <div style="width: 11.70px; height: 9.01px; outline: 2px #B9B48C solid; outline-offset: -1px"></div>
+            <div style="flex: 1 1 0; color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Potencia tu autoestima y claridad personal</div>
+          </div>
+          <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 19px; display: inline-flex">
+            <div style="width: 18.01px; height: 18.01px; outline: 2px #BAB58D solid; outline-offset: -1px"></div>
+            <div style="width: 11.70px; height: 9.01px; outline: 2px #BAB58D solid; outline-offset: -1px"></div>
+            <div style="flex: 1 1 0; color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Mejora tu manejo del estrés, ansiedad o conflictos</div>
+          </div>
+          <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 19px; display: inline-flex">
+            <div style="width: 18.01px; height: 18.01px; outline: 2px #BAB58D solid; outline-offset: -1px"></div>
+            <div style="width: 11.70px; height: 9.01px; outline: 2px #B8B38B solid; outline-offset: -1px"></div>
+            <div style="flex: 1 1 0; color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Fomenta decisiones más conscientes y alineadas contigo</div>
+          </div>
+          <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 19px; display: inline-flex">
+            <div style="width: 18.01px; height: 18.01px; outline: 2px #BAB58D solid; outline-offset: -1px"></div>
+            <div style="width: 11.70px; height: 9.01px; outline: 2px #BAB58D solid; outline-offset: -1px"></div>
+            <div style="flex: 1 1 0; color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Identifica patrones emocionales y de conducta</div>
+          </div>
+        </div>
+        <div style="padding-left: 40px; padding-right: 40px; padding-top: 16px; padding-bottom: 16px; background: #C17C45; border-radius: 8px; justify-content: center; align-items: center; display: inline-flex">
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Ver más</div>
+        </div>
+      </div>
+      <div style="flex: 1 1 0; height: 761px; padding-top: 65px; padding-bottom: 80px; padding-left: 44px; padding-right: 44px; background: #0F4756; box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.08); border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 36px; display: inline-flex">
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 25px; display: flex">
+          <div style="align-self: stretch; color: #B9B48C; font-size: 48px; font-family: PP Neue Corp; font-weight: 500; line-height: 36px; word-wrap: break-word">Duelo</div>
+          <div style="align-self: stretch; color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">La terapia de duelo ofrece apoyo a quienes experimentan pérdidas de cualquier tipo, ya sean recientes o pasadas. El dolor de la pérdida es real y válido, y no tienes que enfrentarlo solo. Estamos listos para ayudarte a sanar y superar el duelo.</div>
+        </div>
+        <div style="align-self: stretch; padding-top: 18px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 28px; display: flex">
+          <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 19px; display: inline-flex">
+            <div style="width: 18.01px; height: 18.01px; outline: 2px #B9B48C solid; outline-offset: -1px"></div>
+            <div style="width: 11.70px; height: 9.01px; outline: 2px #B9B48C solid; outline-offset: -1px"></div>
+            <div style="flex: 1 1 0; color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Espacio seguro para expresar tu dolor sin juicios</div>
+          </div>
+          <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 19px; display: inline-flex">
+            <div style="width: 18.01px; height: 18.01px; outline: 2px #BAB58D solid; outline-offset: -1px"></div>
+            <div style="width: 11.70px; height: 9.01px; outline: 2px #BAB58D solid; outline-offset: -1px"></div>
+            <div style="flex: 1 1 0; color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Acompaña la aceptación de la pérdida a tu propio ritmo</div>
+          </div>
+          <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 19px; display: inline-flex">
+            <div style="width: 18.01px; height: 18.01px; outline: 2px #BAB58D solid; outline-offset: -1px"></div>
+            <div style="width: 11.70px; height: 9.01px; outline: 2px #B8B38B solid; outline-offset: -1px"></div>
+            <div style="flex: 1 1 0; color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Ofrece herramientas para reconstruir tu día a día con sentido</div>
+          </div>
+          <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 19px; display: inline-flex">
+            <div style="width: 18.01px; height: 18.01px; outline: 2px #BAB58D solid; outline-offset: -1px"></div>
+            <div style="width: 11.70px; height: 9.01px; outline: 2px #BAB58D solid; outline-offset: -1px"></div>
+            <div style="flex: 1 1 0; color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Integra la experiencia del duelo como parte de tu crecimiento emocional</div>
+          </div>
+        </div>
+        <div style="padding-left: 40px; padding-right: 40px; padding-top: 16px; padding-bottom: 16px; background: #C17C45; border-radius: 8px; justify-content: center; align-items: center; display: inline-flex">
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Ver más</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="height: 1074px; padding-left: 32px; padding-right: 32px; padding-top: 140px; padding-bottom: 140px; left: 156px; top: 2671px; position: absolute; background: #0F4756; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+    <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: center; gap: 48px; display: flex">
+      <div style="width: 1064px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 24px; display: flex">
+        <div style="width: 312.23px; height: 32.78px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 8.40px; height: 0.87px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 3.95px; height: 0.41px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 3.14px; height: 0.35px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 3.75px; height: 0.39px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 2.11px; height: 0.41px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 2.65px; height: 0.33px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 1.82px; height: 0.36px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 2.04px; height: 0.27px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 1.74px; height: 0.24px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 1.29px; height: 0.33px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 1.30px; height: 0.21px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 1.28px; height: 0.21px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 1.30px; height: 0.21px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 1.30px; height: 0.21px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 1.30px; height: 0.21px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 1.18px; height: 0.22px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 0.86px; height: 0.18px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 0.88px; height: 0.19px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 0.74px; height: 0.19px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 0.85px; height: 0.20px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 0.76px; height: 0.20px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 0.33px; height: 0.17px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 0.44px; height: 0.15px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 0.43px; height: 0.13px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 0.43px; height: 0.13px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 0.43px; height: 0.13px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="width: 0.33px; height: 0.17px; background: rgba(202, 211, 208, 0.83)"></div>
+        <div style="align-self: stretch; color: white; font-size: 96px; font-family: PP Neue Corp; font-weight: 500; line-height: 90px; word-wrap: break-word">Podrán acceder a los servicios en 3 sencillos pasos</div>
+        <div style="align-self: stretch; text-align: center; color: white; font-size: 28px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">¿Cómo funciona con tus colaboradores?</div>
+      </div>
+      <div style="width: 784px; height: 233px; position: relative; overflow: hidden">
+        <div style="width: 153.27px; height: 230.44px; left: 602px; top: 1.28px; position: absolute; background: white; outline: 5px white solid; outline-offset: -2.50px"></div>
+        <div style="width: 4.97px; height: 54.30px; left: 683px; top: 137.38px; position: absolute; background: white; outline: 5px white solid; outline-offset: -2.50px"></div>
+        <div style="width: 4.96px; height: 44.33px; left: 703.07px; top: 147.75px; position: absolute; background: white; outline: 5px white solid; outline-offset: -2.50px"></div>
+        <div style="width: 4.99px; height: 34.50px; left: 722.84px; top: 157.58px; position: absolute; background: white; outline: 5px white solid; outline-offset: -2.50px"></div>
+        <div style="width: 94.39px; height: 123.76px; left: 399.96px; top: 104.91px; position: absolute; background: white"></div>
+        <div style="width: 94.42px; height: 123.76px; left: 290px; top: 104.91px; position: absolute; background: white"></div>
+        <div style="width: 85.31px; height: 68.45px; left: 409.02px; top: 24.32px; position: absolute; background: white"></div>
+        <div style="width: 85.31px; height: 68.16px; left: 290.15px; top: 24.33px; position: absolute; background: white"></div>
+        <div style="width: 50.93px; height: 34.14px; left: 426.15px; top: 41.31px; position: absolute; background: white"></div>
+        <div style="width: 43.59px; height: 42.88px; left: 310.47px; top: 37.08px; position: absolute; background: white"></div>
+        <div style="width: 31.47px; height: 31.49px; left: 42.56px; top: 63.23px; position: absolute; background: white"></div>
+        <div style="width: 77.52px; height: 51.89px; left: 60.30px; top: 172.37px; position: absolute; background: white"></div>
+        <div style="width: 9.30px; height: 9.30px; left: 94.41px; top: 155.55px; position: absolute; background: white"></div>
+        <div style="width: 120.87px; height: 9.30px; left: 38.62px; top: 214.95px; position: absolute; background: white"></div>
+        <div style="width: 38.98px; height: 9.30px; left: 0px; top: 141.96px; position: absolute; background: white"></div>
+        <div style="width: 146.62px; height: 9.30px; left: 55.79px; top: 141.96px; position: absolute; background: white"></div>
+        <div style="width: 165.93px; height: 106.28px; left: 17.88px; top: 45.34px; position: absolute; background: white"></div>
+        <div style="width: 201.69px; height: 154.58px; left: 0.36px; top: 26.74px; position: absolute; background: white"></div>
+        <div style="width: 45.06px; height: 36.14px; left: 35.76px; top: 85.42px; position: absolute; background: white"></div>
+        <div style="width: 67.23px; height: 9.30px; left: 94.05px; top: 80.77px; position: absolute; background: white"></div>
+        <div style="width: 67.23px; height: 9.30px; left: 94.05px; top: 94.37px; position: absolute; background: white"></div>
+        <div style="width: 8.94px; height: 8.95px; left: 94.05px; top: 112.61px; position: absolute; background: white"></div>
+        <div style="width: 8.94px; height: 8.95px; left: 107.64px; top: 112.61px; position: absolute; background: white"></div>
+        <div style="width: 8.94px; height: 8.95px; left: 120.87px; top: 112.61px; position: absolute; background: white"></div>
+        <div style="width: 8.94px; height: 8.95px; left: 134.46px; top: 112.61px; position: absolute; background: white"></div>
+        <div style="width: 8.94px; height: 8.95px; left: 147.69px; top: 112.61px; position: absolute; background: white"></div>
+      </div>
+      <div style="justify-content: flex-start; align-items: flex-start; gap: 48px; display: inline-flex">
+        <div style="width: 236px; text-align: center"><span style="color: white; font-size: 24px; font-family: Inter; font-weight: 900; line-height: 30px; word-wrap: break-word">Registro de Usuario<br/></span><span style="color: white; font-size: 18px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">Empecemos creando tu acceso a la
+        plataforma.</span></div>
+        <div style="width: 236px; text-align: center"><span style="color: white; font-size: 24px; font-family: Inter; font-weight: 900; line-height: 30px; word-wrap: break-word">Evaluación Inicial<br/></span><span style="color: white; font-size: 18px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">Para conocerte mejor y asignarte al
+        terapeuta adecuado, te pedimos responder breves cuestionarios.</span></div>
+        <div style="width: 236px; text-align: center"><span style="color: white; font-size: 24px; font-family: Inter; font-weight: 900; line-height: 30px; word-wrap: break-word">Tu Preferencia <br/>de Terapeuta<br/></span><span style="color: white; font-size: 18px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">Elige a tu terapeuta y agenda tu sesión</span></div>
+      </div>
+      <div style="padding-left: 40px; padding-right: 40px; padding-top: 20px; padding-bottom: 20px; background: #C17C45; border-radius: 8px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Contacto</div>
+        <div style="justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
+          <div style="width: 7px; height: 14px; outline: 1px white solid; outline-offset: -0.50px"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1440px; padding-left: 32px; padding-right: 32px; padding-top: 16px; padding-bottom: 16px; left: 0px; top: 0px; position: absolute; background: #0F4756; justify-content: space-between; align-items: center; display: inline-flex">
+    <div style="width: 233px; height: 42px; justify-content: space-between; align-items: center; display: flex">
+      <img style="width: 233px; height: 38px" src="https://placehold.co/233x38" />
+    </div>
+    <div style="justify-content: flex-start; align-items: center; gap: 45px; display: flex">
+      <div style="width: 551.50px; justify-content: flex-start; align-items: flex-start; gap: 32px; display: flex">
+        <div style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">Empresas</div>
+          <div style="width: 9px; height: 4px; outline: 1px white solid; outline-offset: -0.50px"></div>
+        </div>
+        <div style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">Preguntas frecuentes</div>
+          <div style="width: 9px; height: 4px; outline: 1px white solid; outline-offset: -0.50px"></div>
+        </div>
+        <div style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">Psicologos</div>
+          <div style="width: 9px; height: 4px; outline: 1px white solid; outline-offset: -0.50px"></div>
+        </div>
+        <div style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">Blog</div>
+          <div style="width: 9px; height: 4px; outline: 1px white solid; outline-offset: -0.50px"></div>
+        </div>
+      </div>
+      <div style="height: 60px; justify-content: flex-end; align-items: flex-start; gap: 24px; display: flex">
+        <div style="height: 60px; padding-left: 40px; padding-right: 40px; padding-top: 16px; padding-bottom: 16px; background: #C17C45; border-radius: 8px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">Login</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1440px; padding-top: 125px; padding-bottom: 140px; padding-left: 32px; padding-right: 32px; left: 0px; top: 748.39px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-start; gap: 100px; display: inline-flex">
+    <div style="align-self: stretch; justify-content: flex-start; align-items: center; display: inline-flex">
+      <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 28px; display: inline-flex">
+        <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex">
+          <div style="align-self: stretch; color: #212529; font-size: 40px; font-family: PP Neue Corp; font-weight: 500; line-height: 59.43px; word-wrap: break-word">Tu equipo es el corazón de tu empresa. <br/>Cuidar su salud mental es cuidar tu negocio.</div>
+          <div style="width: 584px; color: #212529; font-size: 18px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">Creamos programas personalizados de salud mental para organizaciones que entienden que el bienestar emocional es parte del éxito.  Nuestro equipo de psicólogos certificados está comprometido con brindar acompañamiento terapéutico de calidad, desde la empatía, la calidez y el profesionalismo.<br/><br/>Acompañamos a personas en distintas etapas de su vida a través de procesos terapéuticos personalizados, en línea y desde cualquier lugar.</div>
+        </div>
+        <div style="padding-left: 40px; padding-right: 40px; padding-top: 20px; padding-bottom: 20px; background: #0F4756; border-radius: 8px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+          <div style="color: white; font-size: 18px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Descubre más</div>
+          <div style="justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
+            <div style="width: 7px; height: 14px; outline: 1px white solid; outline-offset: -0.50px"></div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 719px; height: 448px; position: relative; background: #C4DEFD; overflow: hidden">
+        <img style="width: 719px; height: 615px; left: 0px; top: -166.89px; position: absolute" src="https://placehold.co/719x615" />
+      </div>
+    </div>
+  </div>
+  <div style="width: 1440px; height: 551px; padding: 32px; left: 0px; top: 4652px; position: absolute; background: #0F4756; flex-direction: column; justify-content: center; align-items: center; gap: 200px; display: inline-flex">
+    <div style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 40px; display: flex">
+      <div style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 24px; display: flex">
+        <div style="width: 608px; text-align: center; color: white; font-size: 72px; font-family: PP Neue Corp; font-weight: 500; word-wrap: break-word">Únete a Mi Salud Mental</div>
+        <div style="width: 550px; text-align: center; color: white; font-size: 24px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">Servicios Administrados de Psicología en Línea </div>
+      </div>
+      <div style="padding-left: 40px; padding-right: 40px; padding-top: 20px; padding-bottom: 20px; background: #C17C45; border-radius: 10px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Montserrat; font-weight: 500; line-height: 23px; word-wrap: break-word">Contáctanos</div>
+        <div style="justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
+          <div style="width: 7px; height: 14px; outline: 1px white solid; outline-offset: -0.50px"></div>
+        </div>
+      </div>
+      <div style="width: 367px; text-align: center; color: white; font-size: 24px; font-family: Inter; font-weight: 400; line-height: 32px; word-wrap: break-word">Enfoque a empresas       y totalmente remoto.</div>
+    </div>
+  </div>
+  <div style="width: 1440px; padding-top: 80px; padding-bottom: 140px; padding-left: 32px; padding-right: 32px; left: 0px; top: 3760px; position: absolute; flex-direction: column; justify-content: center; align-items: center; gap: 60px; display: inline-flex">
+    <div style="align-self: stretch; text-align: center; color: #212529; font-size: 96px; font-family: PP Neue Corp; font-weight: 500; line-height: 84px; word-wrap: break-word">Testimonios destacados</div>
+    <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 32px; display: inline-flex">
+      <div style="flex: 1 1 0; padding-top: 60px; padding-bottom: 35px; padding-left: 24px; padding-right: 24px; background: white; box-shadow: 15px 10px 50px rgba(0, 0, 0, 0.10); border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 60px; display: inline-flex">
+        <div style="align-self: stretch; padding-bottom: 40px; border-bottom: 1px #212529 solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: flex">
+          <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
+            <div style="width: 36.39px; height: 61.46px; background: #0F4756"></div>
+            <div style="width: 36.39px; height: 61.46px; background: #0F4756"></div>
+          </div>
+          <div style="align-self: stretch; color: #212529; font-size: 18px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">Llegué sin saber bien qué sentía, solo con ansiedad y mucho cansancio emocional. Mi terapeuta me ayudó a entender lo que me pasaba y a dejar de exigirme tanto. Hoy me siento más en paz conmigo misma y con mis decisiones."</div>
+        </div>
+        <div style="width: 383px; justify-content: flex-start; align-items: flex-end; gap: 42px; display: inline-flex">
+          <img style="width: 95px; height: 95px; border-radius: 9999px" src="https://placehold.co/95x95" />
+          <div style="flex: 1 1 0; align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 15px; display: inline-flex">
+            <div style="align-self: stretch; color: #0F4756; font-size: 24px; font-family: PP Neue Corp; font-weight: 500; line-height: 36px; word-wrap: break-word">Ana, C.</div>
+            <div style="align-self: stretch; color: #212529; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">34 años</div>
+          </div>
+        </div>
+      </div>
+      <div style="flex: 1 1 0; padding-top: 71px; padding-bottom: 60px; padding-left: 24px; padding-right: 24px; background: #BAB58D; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 60px; display: inline-flex">
+        <div style="align-self: stretch; padding-bottom: 40px; border-bottom: 1px white solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: flex">
+          <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
+            <div style="width: 36.39px; height: 61.46px; background: white"></div>
+            <div style="width: 36.39px; height: 61.46px; background: white"></div>
+          </div>
+          <div style="align-self: stretch; color: white; font-size: 18px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">Perdí a mi mamá en medio de una etapa muy difícil. Gracias a la terapia de duelo pude hablar de cosas que nunca había dicho, y soltar muchas culpas. Fue un proceso profundo, pero muy sanador."</div>
+        </div>
+        <div style="width: 383px; justify-content: flex-start; align-items: flex-end; gap: 42px; display: inline-flex">
+          <img style="width: 95px; height: 95px; border-radius: 9999px" src="https://placehold.co/95x95" />
+          <div style="flex: 1 1 0; align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 15px; display: inline-flex">
+            <div style="align-self: stretch; color: #0F4756; font-size: 24px; font-family: PP Neue Corp; font-weight: 500; line-height: 36px; word-wrap: break-word">Luis, R.</div>
+            <div style="align-self: stretch; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">29 años</div>
+          </div>
+        </div>
+      </div>
+      <div style="flex: 1 1 0; padding-top: 68px; padding-bottom: 60px; padding-left: 24px; padding-right: 24px; background: #BAB58D; border-radius: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 60px; display: inline-flex">
+        <div style="align-self: stretch; padding-bottom: 40px; border-bottom: 1px white solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: flex">
+          <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
+            <div style="width: 36.39px; height: 61.46px; background: white"></div>
+            <div style="width: 36.39px; height: 61.46px; background: white"></div>
+          </div>
+          <div style="align-self: stretch; color: white; font-size: 18px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">Nuestra empresa decidió implementar sesiones de terapia para el equipo y notamos un cambio real. Las personas están más abiertas, se comunican mejor y se sienten escuchadas. Ha sido una gran inversión en bienestar."</div>
+        </div>
+        <div style="width: 383px; justify-content: flex-start; align-items: flex-end; gap: 42px; display: inline-flex">
+          <img style="width: 95px; height: 95px; border-radius: 9999px" src="https://placehold.co/95x95" />
+          <div style="flex: 1 1 0; align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 15px; display: inline-flex">
+            <div style="align-self: stretch; color: #0F4756; font-size: 24px; font-family: PP Neue Corp; font-weight: 500; line-height: 36px; word-wrap: break-word">Marcelo, L.</div>
+            <div style="align-self: stretch; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">45 años</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+      <div style="width: 12px; height: 12px; background: #BAB58D"></div>
+      <div style="width: 12px; height: 12px; background: #0F4756; border-radius: 9999px"></div>
+      <div style="width: 12px; height: 12px; background: #BAB58D; border-radius: 9999px"></div>
+    </div>
+  </div>
+  <div style="width: 1440px; padding-top: 140px; padding-bottom: 32px; padding-left: 32px; padding-right: 32px; left: 0px; top: 5200px; position: absolute; background: #0F4756; flex-direction: column; justify-content: center; align-items: center; gap: 200px; display: inline-flex">
+    <div style="align-self: stretch; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 100px; display: flex">
+      <div style="width: 1480px; justify-content: flex-start; align-items: flex-start; gap: 40px; display: inline-flex">
+        <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 15px; display: inline-flex">
+          <div style="width: 233px; height: 42px; justify-content: space-between; align-items: center; display: inline-flex">
+            <img style="width: 233px; height: 38px" src="https://placehold.co/233x38" />
+          </div>
+          <div style="width: 240px; color: white; font-size: 18px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">Bienestar emocional para impulsar tu empresa</div>
+        </div>
+        <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 15px; display: inline-flex">
+          <div style="color: white; font-size: 18px; font-family: Inter; font-weight: 700; word-wrap: break-word">Servicios</div>
+          <div style="color: #C17C45; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Terapia Individual</div>
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Terapia de Pareja</div>
+          <div style="width: 177px; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Acompañamiento <br/>en Duelo</div>
+        </div>
+        <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word"><br/><br/>Salud Mental para Empresas</div>
+          <div style="width: 130px; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Áreas <br/>de Especialidad</div>
+        </div>
+        <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="color: white; font-size: 18px; font-family: Inter; font-weight: 700; word-wrap: break-word">Compañía</div>
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">¿Cómo funciona?</div>
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Nosotros</div>
+          <div style="width: 99px; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Testimonios</div>
+        </div>
+        <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="color: white; font-size: 18px; font-family: Inter; font-weight: 700; word-wrap: break-word">Educación</div>
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Blog / Recursos</div>
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Preguntas Frecuentes</div>
+          <div style="width: 99px; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Test de Bienestar</div>
+        </div>
+        <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word"><br/><br/>Empresas</div>
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Hacer CIta</div>
+          <div style="width: 99px; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Contacto</div>
+        </div>
+      </div>
+      <div style="align-self: stretch; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="justify-content: flex-start; align-items: center; gap: 60px; display: flex">
+          <div style="justify-content: center; align-items: center; gap: 6px; display: flex">
+            <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
+              <div style="width: 19px; height: 19px; background: white"></div>
+            </div>
+            <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Español</div>
+            <div style="padding: 4px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
+              <div style="width: 12px; height: 6px; outline: 1px white solid; outline-offset: -0.50px"></div>
+            </div>
+          </div>
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Aviso de Privacidad</div>
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">©2025 Mi salud mental</div>
+        </div>
+        <div style="justify-content: flex-start; align-items: center; gap: 32px; display: flex">
+          <div style="width: 9px; height: 16.68px; background: #F7F7EE"></div>
+          <div style="width: 17px; height: 13.81px; background: #F7F7EE"></div>
+          <div style="width: 9.63px; height: 10.30px; background: #F7F7EE"></div>
+          <div style="width: 3.13px; height: 9.85px; background: #F7F7EE"></div>
+          <div style="width: 3.58px; height: 3.58px; background: #F7F7EE"></div>
+        </div>
+
+      </div>
+      <div style="width: 1336px; height: 0px; left: 0px; top: 248.92px; position: absolute; outline: 1px #2E4E73 solid; outline-offset: -0.50px"></div>
+    </div>
+  </div>
+</div>
