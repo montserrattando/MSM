@@ -1,0 +1,231 @@
+<div style="width: 1440px; height: 2601px; position: relative; background: white; overflow: hidden">
+  <div style="width: 1440px; padding-left: 32px; padding-right: 32px; padding-top: 100px; padding-bottom: 100px; left: 0px; top: 92px; position: absolute; background: #0F4756; justify-content: center; align-items: center; gap: 64px; display: inline-flex">
+    <div style="width: 625px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">
+      <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex">
+        <div style="width: 663px; color: white; font-size: 78px; font-family: PP Neue Corp; font-weight: 500; line-height: 62.40px; word-wrap: break-word">Preguntas frecuentes</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Cómo funcionan las sesiones?</div>
+        <div style="width: 273px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Cuánto dura una sesión?</div>
+        <div style="width: 318px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Cómo puedo mejorar mi conexión durante la sesión?</div>
+        <div style="width: 96px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Qué hago si mi terapeuta no tiene horarios disponibles?</div>
+        <div style="width: 77px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Puedo cancelar o cambiar mi cita?</div>
+        <div style="width: 244px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Hay una app disponible?</div>
+        <div style="width: 316px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿La terapia en línea funciona?</div>
+        <div style="width: 288px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">Si no puedo ver o escuchar a mi terapeuta, ¿qué hago?</div>
+        <div style="width: 93px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Qué hago si tengo problemas con la app?</div>
+        <div style="width: 186px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Qué pasa si mi terapeuta no se conecta?</div>
+        <div style="width: 198px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Es normal sentirse incómod@ durante la terapia?</div>
+        <div style="width: 130px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Qué hago si siento que no avanzo?</div>
+        <div style="width: 240px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Qué beneficios tiene la terapia?</div>
+        <div style="width: 266px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Qué hacer si el proceso se siente difícil?</div>
+        <div style="width: 203px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+    </div>
+    <div style="width: 625px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">
+      <div style="align-self: stretch; height: 62px"></div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Cómo se asigna al terapeuta?</div>
+        <div style="width: 266px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Cómo funciona el test de asignación?</div>
+        <div style="width: 204px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Quiénes son los psicólogos de Mi Salud Mental?</div>
+        <div style="width: 120px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Siempre tendré el mismo terapeuta?</div>
+        <div style="width: 213px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Cómo cambio de terapeuta si lo necesito?</div>
+        <div style="width: 169px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Qué pasa si estoy tomando medicamentos?</div>
+        <div style="width: 154px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Cómo puede ayudarme la terapia a mejorar mi vida?</div>
+        <div style="width: 89px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Cómo elijo al psicólogo indicado?</div>
+        <div style="width: 232px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Cómo ingreso a mi sesión?</div>
+        <div style="width: 287px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Cómo ingreso a mi sesión?</div>
+        <div style="width: 287px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Cómo impacta mi bienestar en los demás?</div>
+        <div style="width: 165px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Por qué puede dar miedo empezar terapia y cómo superarlo?</div>
+        <div style="width: 18px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Cómo saber si estoy progresando?</div>
+        <div style="width: 226px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+      <div style="width: 574px; padding: 20px; border-radius: 30px; outline: 1px white solid; outline-offset: -1px; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">¿Qué puedo esperar de la terapia?</div>
+        <div style="width: 238px; transform: rotate(180deg); transform-origin: top left; color: white; font-size: 40px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">+</div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1440px; padding-left: 32px; padding-right: 32px; padding-top: 16px; padding-bottom: 16px; left: 0px; top: 0px; position: absolute; background: #0F4756; justify-content: space-between; align-items: center; display: inline-flex">
+    <div style="width: 233px; height: 42px; justify-content: space-between; align-items: center; display: flex">
+      <img style="width: 233px; height: 38px" src="https://placehold.co/233x38" />
+    </div>
+    <div style="justify-content: flex-start; align-items: center; gap: 45px; display: flex">
+      <div style="width: 551.50px; justify-content: flex-start; align-items: flex-start; gap: 32px; display: flex">
+        <div style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">Empresas</div>
+          <div style="width: 9px; height: 4px; outline: 1px white solid; outline-offset: -0.50px"></div>
+        </div>
+        <div style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">Preguntas frecuentes</div>
+          <div style="width: 9px; height: 4px; outline: 1px white solid; outline-offset: -0.50px"></div>
+        </div>
+        <div style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">Psicologos</div>
+          <div style="width: 9px; height: 4px; outline: 1px white solid; outline-offset: -0.50px"></div>
+        </div>
+        <div style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">Blog</div>
+          <div style="width: 9px; height: 4px; outline: 1px white solid; outline-offset: -0.50px"></div>
+        </div>
+      </div>
+      <div style="height: 60px; justify-content: flex-end; align-items: flex-start; gap: 24px; display: flex">
+        <div style="height: 60px; padding-left: 40px; padding-right: 40px; padding-top: 16px; padding-bottom: 16px; background: #C17C45; border-radius: 8px; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div style="color: white; font-size: 18px; font-family: Aileron; font-weight: 600; line-height: 23px; word-wrap: break-word">Login</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1440px; height: 551px; padding: 32px; left: 0px; top: 1608px; position: absolute; background: #0F4756; flex-direction: column; justify-content: center; align-items: center; gap: 200px; display: inline-flex">
+    <div style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 40px; display: flex">
+      <div style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 24px; display: flex">
+        <div style="width: 608px; text-align: center; color: white; font-size: 72px; font-family: PP Neue Corp; font-weight: 500; word-wrap: break-word">Únete a Mi Salud Mental</div>
+        <div style="width: 550px; text-align: center; color: white; font-size: 24px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">Servicios Administrados de Psicología en Línea</div>
+      </div>
+      <div style="padding-left: 40px; padding-right: 40px; padding-top: 20px; padding-bottom: 20px; background: #C17C45; border-radius: 10px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 18px; font-family: Montserrat; font-weight: 500; line-height: 23px; word-wrap: break-word">Contáctanos</div>
+        <div style="justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
+          <div style="width: 7px; height: 14px; outline: 1px white solid; outline-offset: -0.50px"></div>
+        </div>
+      </div>
+      <div style="width: 367px; text-align: center; color: white; font-size: 24px; font-family: Inter; font-weight: 400; line-height: 32px; word-wrap: break-word">Enfoque a empresas       y totalmente remoto.</div>
+    </div>
+  </div>
+  <div style="width: 1440px; padding-top: 140px; padding-bottom: 32px; padding-left: 32px; padding-right: 32px; left: 0px; top: 2159px; position: absolute; background: #0F4756; flex-direction: column; justify-content: center; align-items: center; gap: 200px; display: inline-flex">
+    <div style="align-self: stretch; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 100px; display: flex">
+      <div style="width: 1480px; justify-content: flex-start; align-items: flex-start; gap: 40px; display: inline-flex">
+        <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 15px; display: inline-flex">
+          <div style="width: 233px; height: 42px; justify-content: space-between; align-items: center; display: inline-flex">
+            <img style="width: 233px; height: 38px" src="https://placehold.co/233x38" />
+          </div>
+          <div style="width: 240px; color: white; font-size: 18px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">Bienestar emocional para impulsar tu empresa</div>
+        </div>
+        <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 15px; display: inline-flex">
+          <div style="color: white; font-size: 18px; font-family: Inter; font-weight: 700; word-wrap: break-word">Servicios</div>
+          <div style="color: #C17C45; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Terapia Individual</div>
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Terapia de Pareja</div>
+          <div style="width: 177px; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Acompañamiento <br/>en Duelo</div>
+        </div>
+        <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word"><br/><br/>Salud Mental para Empresas</div>
+          <div style="width: 130px; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Áreas <br/>de Especialidad</div>
+        </div>
+        <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="color: white; font-size: 18px; font-family: Inter; font-weight: 700; word-wrap: break-word">Compañía</div>
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">¿Cómo funciona?</div>
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Nosotros</div>
+          <div style="width: 99px; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Testimonios</div>
+        </div>
+        <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="color: white; font-size: 18px; font-family: Inter; font-weight: 700; word-wrap: break-word">Educación</div>
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Blog / Recursos</div>
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Preguntas Frecuentes</div>
+          <div style="width: 99px; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Test de Bienestar</div>
+        </div>
+        <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word"><br/><br/>Empresas</div>
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Hacer CIta</div>
+          <div style="width: 99px; color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Contacto</div>
+        </div>
+      </div>
+      <div style="align-self: stretch; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="justify-content: flex-start; align-items: center; gap: 60px; display: flex">
+          <div style="justify-content: center; align-items: center; gap: 6px; display: flex">
+            <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
+              <div style="width: 19px; height: 19px; background: white"></div>
+            </div>
+            <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Español</div>
+            <div style="padding: 4px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
+              <div style="width: 12px; height: 6px; outline: 1px white solid; outline-offset: -0.50px"></div>
+            </div>
+          </div>
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Aviso de Privacidad</div>
+          <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">©2025 Mi salud mental</div>
+        </div>
+        <div style="justify-content: flex-start; align-items: center; gap: 32px; display: flex">
+          <div style="width: 9px; height: 16.68px; background: #F7F7EE"></div>
+          <div style="width: 17px; height: 13.81px; background: #F7F7EE"></div>
+          <div style="width: 9.63px; height: 10.30px; background: #F7F7EE"></div>
+          <div style="width: 3.13px; height: 9.85px; background: #F7F7EE"></div>
+          <div style="width: 3.58px; height: 3.58px; background: #F7F7EE"></div>
+        </div>
+      </div>
+      <div style="width: 1336px; height: 0px; left: 0px; top: 248.92px; position: absolute; outline: 1px #2E4E73 solid; outline-offset: -0.50px"></div>
+    </div>
+  </div>
+</div>
